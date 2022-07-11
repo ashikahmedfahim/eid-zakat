@@ -8,6 +8,9 @@
 h1 {
   font-size: 70px;
 }
+h3{
+  font-size: 45px;
+}
 .intro {
   background-image: url(./images/cow-1.jpg);
   background-repeat: no-repeat;
@@ -37,7 +40,8 @@ h1 {
   color: white;
   background-color: #ef233c;
 }
-.video-section {
+.video-section,
+.help-section {
   padding: 200px;
 }
 .content {
@@ -45,7 +49,7 @@ h1 {
   justify-content: space-between;
   align-items: center;
 }
-.content img{
+.img {
   height: 600px;
 }
 .content-text {
@@ -53,4 +57,33 @@ h1 {
 }
 .second-content-text {
   padding: 0 0 50px 0;
+}
+.survive-section {
+  padding: 0 200px;
+}
+.survive-section-text {
+  padding: 25px 0 50px 0;
+}
+.help-heading {
+  text-align: center;
+}
+.help-text {
+  padding: 20px 0 50px 0;
+}
+.icon {
+  height: 100px;
+}
+.help-div{
+  background-color: #ef233b15;
+  margin: 15px;
+  padding: 50px;
+  border-radius: 10px;
+  align-items: flex-start;
+}
+.help-div > img {
+  padding: 15px;
+}
+.help-div h3{
+  padding-bottom: 20px;
+  padding-top: 10px;
 }
