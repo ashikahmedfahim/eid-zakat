@@ -1,5 +1,39 @@
 * {
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+}
+h1 {
+  font-size: 70px;
+}
+.intro {
+  background-image: url(./images/cow-1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.header {
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0.8),
+    rgba(0, 0, 0, 0)
+  );
+  height: 100vh;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  color: white;
+  padding: 0 200px;
+}
+.header-text{
+  padding: 50px 0;
+}
+.donate-btn{
+  border: none;
+  border-radius: 5px;
+  padding: 20px 30px;
+  color: white;
+  background-color: #EF233C;
 }
