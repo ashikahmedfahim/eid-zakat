@@ -27,13 +27,30 @@ h1 {
   color: white;
   padding: 0 200px;
 }
-.header-text{
+.header-text {
   padding: 50px 0;
 }
-.donate-btn{
+.donate-btn {
   border: none;
   border-radius: 5px;
   padding: 20px 30px;
   color: white;
-  background-color: #EF233C;
+  background-color: #ef233c;
+}
+.video-section {
+  padding: 200px;
+}
+.content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.content img{
+  height: 600px;
+}
+.content-text {
+  padding: 25px 0;
+}
+.second-content-text {
+  padding: 0 0 50px 0;
 }
