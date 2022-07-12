@@ -87,3 +87,34 @@ h3 {
   padding-bottom: 20px;
   padding-top: 10px;
 }
+a {
+  color: #ef233c;
+}
+.charity-section{
+  padding: 0 200px;
+}
+.charity-header{
+  text-align: center;
+}
+.charity-header p{
+  color: gray;
+  padding: 30px 0 100px 0;
+}
+.card-holder{
+  display: flex;
+  justify-content: space-between;
+}
+.card{
+  width: 400px;
+  text-align: justify;
+}
+.card img{
+  width: 400px;
+}
+.card h3{
+  padding: 15px 0;
+}
+.card p{
+  padding-bottom: 15px;
+  color: grey;
+}
