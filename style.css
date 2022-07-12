@@ -8,7 +8,7 @@
 h1 {
   font-size: 70px;
 }
-h3{
+h3 {
   font-size: 45px;
 }
 .intro {
@@ -73,7 +73,7 @@ h3{
 .icon {
   height: 100px;
 }
-.help-div{
+.help-div {
   background-color: #ef233b15;
   margin: 15px;
   padding: 50px;
@@ -83,7 +83,7 @@ h3{
 .help-div > img {
   padding: 15px;
 }
-.help-div h3{
+.help-div h3 {
   padding-bottom: 20px;
   padding-top: 10px;
 }
