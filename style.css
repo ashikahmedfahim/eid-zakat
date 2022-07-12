@@ -90,31 +90,44 @@ h3 {
 a {
   color: #ef233c;
 }
-.charity-section{
+.charity-section {
   padding: 0 200px;
 }
-.charity-header{
+.charity-header {
   text-align: center;
 }
-.charity-header p{
+.charity-header p {
   color: gray;
   padding: 30px 0 100px 0;
 }
-.card-holder{
+.card-holder {
   display: flex;
   justify-content: space-between;
 }
-.card{
+.card {
   width: 400px;
   text-align: justify;
 }
-.card img{
+.card img {
   width: 400px;
 }
-.card h3{
+.card h3 {
   padding: 15px 0;
 }
-.card p{
+.card p {
   padding-bottom: 15px;
+  color: grey;
+}
+footer {
+  margin-top: 200px;
+  padding: 100px;
+  text-align: center;
+  background-color: #0b0d17;
+}
+footer h3 {
+  color: #ef233c;
+  padding: 15px 0;
+}
+footer p {
   color: grey;
 }
